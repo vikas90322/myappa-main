@@ -52,7 +52,7 @@ const Cards1 = () => {
   </article>
 </section>
 
-<Link to='/copm1'>Comp1</Link>
+<Link to='/comp1'>Comp1</Link>
     </div>
   )
 }
