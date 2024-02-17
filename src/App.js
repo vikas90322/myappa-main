@@ -36,7 +36,7 @@ function App() {
         <Route path='/Table2' element={<Table2/>}/>
         <Route path='/comp1' element={<Comp1/>}/>
         <Route path='/Comp2' element={<Comp2/>}/>
-        <Route path='/' element={<Cards1/>}/>
+        <Route path='/myappa-main' element={<Cards1/>}/>
 
 
       </Routes>
