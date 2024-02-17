@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/myappa-main/static/css/main.72b06030.css",
-    "main.js": "/myappa-main/static/js/main.79e0708c.js",
+    "main.js": "/myappa-main/static/js/main.01b14d3b.js",
     "static/js/787.8c8b1a91.chunk.js": "/myappa-main/static/js/787.8c8b1a91.chunk.js",
     "index.html": "/myappa-main/index.html",
     "main.72b06030.css.map": "/myappa-main/static/css/main.72b06030.css.map",
-    "main.79e0708c.js.map": "/myappa-main/static/js/main.79e0708c.js.map",
+    "main.01b14d3b.js.map": "/myappa-main/static/js/main.01b14d3b.js.map",
     "787.8c8b1a91.chunk.js.map": "/myappa-main/static/js/787.8c8b1a91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72b06030.css",
-    "static/js/main.79e0708c.js"
+    "static/js/main.01b14d3b.js"
   ]
 }
